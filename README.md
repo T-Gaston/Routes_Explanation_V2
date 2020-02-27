@@ -1,6 +1,6 @@
-#Routes on Rails!#
+# Routes on Rails!
 
-###What are they?###
+### What are they?
 
 Routes are HTTP methods that your computer and a server use to communicate with each other over the internet.
 More specifically, routes are linked to what we call CRUD actions in our Rails controllers.
