@@ -5,10 +5,10 @@
 Routes are HTTP methods that your computer and a server use to communicate with each other over the internet.
 More specifically, routes are linked to what we call CRUD actions in our Rails controllers.
 
-1. C *Create (Post)*
-2. R *Read (Get)*
-3. U *Update (Put)*
-4. D *Destroy (Delete)*
+1. C - *Create (Post)*
+2. R - *Read (Get)*
+3. U - *Update (Put)*
+4. D - *Destroy (Delete)*
 
 These CRUD actions directly relate to the Model/View/Controller pattern of app design commonly used in Rails.
 Specifically, routes link the User directly to the Controller arm of the MVC framework which handles all of the CRUD operations for our app. 
